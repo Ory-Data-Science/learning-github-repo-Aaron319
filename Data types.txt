@@ -3,3 +3,5 @@ Heart rates
 Blood pressure 
 Weights
 Medication Adherence
+Number of new prescriptions 
+Number of refill prescriptions
