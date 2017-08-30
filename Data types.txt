@@ -1,7 +1,4 @@
 This is a list of anticipated data that I may encounter as a pharmacist.
-Heart rates
-Blood pressure 
-Weights
-Medication Adherence
-Number of new prescriptions 
-Number of refill prescriptions
+Other data may include medication prices.
+Birthdates
+Phone numbers
